@@ -1,0 +1,2 @@
+# wsl-nixos
+setup a wsl-nixos with zsh and other fun stuff for my work

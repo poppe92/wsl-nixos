@@ -54,6 +54,7 @@
     _7zz
     kubectl
     k9s
+    zip
     
     # Terminal programs
     silver-searcher # Better find files

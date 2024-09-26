@@ -22,7 +22,7 @@
     enable = true;
     defaultUser = "nixos";
     startMenuLaunchers = true;
-    wslConf.network.generateResolvConf = false;
+    #wslConf.network.generateResolvConf = false;
   };
 
   networking.nameservers = [

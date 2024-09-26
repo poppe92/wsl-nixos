@@ -77,7 +77,7 @@
     steam-run
     
     # IDEA tools
-    #jetbrains.idea-ultimate 
+    # jetbrains.idea-ultimate 
 
     # Standalone 
     xorg.xeyes

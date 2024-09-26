@@ -79,7 +79,7 @@
   #
   home.sessionVariables = {
     # EDITOR = "emacs";
-    DISPLAY="$(grep nameserver /etc/resolv.conf | awk '{print $2}'):0";
+    # DISPLAY="$(grep nameserver /etc/resolv.conf | awk '{print $2}'):0";
     #DISPLAY="${DISPLAY:-$(grep -Po '(?<=nameserver ).*' /etc/resolv.conf):0}";
     QUARKUS_PROFILE="dev";
     NIXPKGS_ACCEPT_ANDROID_SDK_LICENSE=1;
